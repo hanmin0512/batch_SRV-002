@@ -1,4 +1,4 @@
-# batch_SRV-002
+# batch_SRV-003
 ## [SRV-003]
 - SNMP 접근 통제 미설정 점검
 
